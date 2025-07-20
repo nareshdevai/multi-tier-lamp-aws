@@ -26,5 +26,3 @@ This project demonstrates the deployment of a multi-tier LAMP (Linux, Apache, My
 - Secure VPC with custom security groups and NACLs
 - DNS mapping using Route 53
 - Monitoring and alerting via CloudWatch
-
-## 📁 Folder Structure
